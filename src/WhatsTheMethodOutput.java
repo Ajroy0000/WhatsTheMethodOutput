@@ -2,7 +2,7 @@
 public class WhatsTheMethodOutput {
     //-----------------------------------------------------------------------------
     private static final short CENTURY = 2000;
-    //-----------------------------------------------------------------------------
+
     public static void main(String[] args) {
 
         int thisYear = 2010;
